@@ -1,0 +1,13 @@
+{
+    "require": {
+        "easyswoole/easyswoole": "3.x-dev",
+        "easyswoole/mysqli": "^2.2",
+        "easyswoole/elasticsearch": "^6.0",
+        "easyswoole/validate": "^1.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    }
+}
